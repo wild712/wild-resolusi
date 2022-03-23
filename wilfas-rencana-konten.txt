@@ -1,5 +1,7 @@
 RENCANA KONTEN WILFAS GROUP
 - menentukan dominan warna
+  - gradient orange dan kuning
+  - selalu pakai bg itu di postingan
 - membuat logo
 - membuat postingan produk
 - membuat event special ramadhan
