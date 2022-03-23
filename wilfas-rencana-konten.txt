@@ -5,3 +5,4 @@ RENCANA KONTEN WILFAS GROUP
 - membuat logo
 - membuat postingan produk
 - membuat event special ramadhan
+- membuat wa bussines
